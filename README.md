@@ -1,1 +1,1 @@
-# Unit2-02-HTML-AreaPerRectangle
+[![GitHub's SuperLinter](https://github.com/ICS20-Programming-Ioana-M/Unit2-02-HTML-AreaPerRectangle/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS20-Programming-Ioana-M/Unit2-02-HTML-AreaPerRectangle/actions)
